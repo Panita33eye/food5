@@ -706,83 +706,81 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-s0JO9QnGbh {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-s0LiisdRZ3 {
   background-image: url("../../../assets/images/rachel-park-hrlvr2zlunk-unsplash.jpg");
 }
-.cid-s0JO9QnGbh .mbr-text,
-.cid-s0JO9QnGbh .mbr-section-btn {
+.cid-s0LiisdRZ3 .mbr-text,
+.cid-s0LiisdRZ3 .mbr-section-btn {
   text-align: left;
-  color: #000000;
+  color: #ffffff;
 }
-.cid-s0JO9QnGbh H1 {
-  color: #000000;
+.cid-s0LiisdRZ3 H1 {
+  color: #ffffff;
 }
-.cid-s0JKeddVIv {
+.cid-s0LizPBwEf {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #f9f9f9;
 }
-.cid-s0JKeddVIv .mbr-section-btn > * {
+.cid-s0LizPBwEf .mbr-section-btn > * {
   margin: 0;
 }
-.cid-s0JKeddVIv h4 {
+.cid-s0LizPBwEf h4 {
   font-weight: 500;
 }
-.cid-s0JKeddVIv p {
+.cid-s0LizPBwEf p {
   color: #232323;
 }
-.cid-s0JKeddVIv .aside-content {
+.cid-s0LizPBwEf .aside-content {
   -webkit-flex-basis: 100%;
   flex-basis: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
-.cid-s0JKeddVIv .block-content {
+.cid-s0LizPBwEf .block-content {
   display: -webkit-flex;
   flex-direction: column;
   -webkit-flex-direction: column;
   word-break: break-word;
 }
-.cid-s0JKeddVIv .media {
+.cid-s0LizPBwEf .media {
   margin: initial;
   align-items: center;
   -webkit-align-items: center;
 }
-.cid-s0JKeddVIv .mbr-figure {
+.cid-s0LizPBwEf .mbr-figure {
   align-self: flex-start;
   -webkit-align-self: flex-start;
   -webkit-flex-shrink: 0;
   flex-shrink: 0;
 }
-.cid-s0JKeddVIv .card-img {
+.cid-s0LizPBwEf .card-img {
   padding-right: 2rem;
   width: auto;
 }
-.cid-s0JKeddVIv .card-img span {
+.cid-s0LizPBwEf .card-img span {
   font-size: 72px;
   color: #707070;
 }
 @media (min-width: 992px) {
-  .cid-s0JKeddVIv .mbr-figure {
+  .cid-s0LizPBwEf .mbr-figure {
     padding-right: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-s0JKeddVIv .mbr-figure {
+  .cid-s0LizPBwEf .mbr-figure {
     padding-right: 0;
     padding-bottom: 1rem;
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 300px) {
-  .cid-s0JKeddVIv .card-img span {
+  .cid-s0LizPBwEf .card-img span {
     font-size: 40px !important;
   }
 }
-.cid-s0JKeddVIv .cost {
+.cid-s0LizPBwEf .cost {
   text-decoration: line-through;
   color: #767676;
 }
